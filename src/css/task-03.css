@@ -6,6 +6,7 @@ body {
 }
 
 .gallery {
+    list-style: none;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -17,5 +18,8 @@ body {
 .picture {
     height: 500px;
     width: 800px;
+}
 
+li {
+    padding-bottom: 20px;
 }
