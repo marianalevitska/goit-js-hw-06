@@ -9,3 +9,4 @@ function fontSizeChanger() {
     textLine.style.fontSize = `${rageInput.value}px`;
 };
 
+
